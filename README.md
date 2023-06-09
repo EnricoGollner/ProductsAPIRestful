@@ -1,3 +1,4 @@
 # ProductsAPIRestful
 Spring Boot 3 | Curso Completo 2023
-https://github.com/EnricoGollner/ProductsAPIRestful.git
+
+https://www.youtube.com/watch?v=wlYvA2b1BWI
